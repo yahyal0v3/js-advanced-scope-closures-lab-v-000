@@ -13,6 +13,10 @@ function produceDrivingRange (distance) {
 
 function produceTipCalculator(percent) {
   return function(total) {
+<<<<<<< HEAD
     return total * percent
+=======
+    return total * percent  
+>>>>>>> ba7d2e396804983b1b209a2ddb4b08f352815fbd
   }
 }
